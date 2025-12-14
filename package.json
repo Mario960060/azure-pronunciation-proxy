@@ -11,7 +11,4 @@
     "deploy": "vercel --prod"
   },
   "dependencies": {},
-  "devDependencies": {
-    "vercel": "^latest"
-  }
 }
