@@ -1,0 +1,17 @@
+{
+  "name": "azure-pronunciation-proxy",
+  "version": "1.0.0",
+  "description": "Azure Speech API pronunciation assessment proxy",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^latest"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/pronunciation.js": {
+      "maxDuration": 10
+    }
+  }
+}
